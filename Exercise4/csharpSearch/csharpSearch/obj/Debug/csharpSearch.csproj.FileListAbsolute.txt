@@ -1,0 +1,6 @@
+C:\Users\Jerry Tse\Desktop\DSA\Exercise4\csharpSearch\csharpSearch\bin\Debug\csharpSearch.exe.config
+C:\Users\Jerry Tse\Desktop\DSA\Exercise4\csharpSearch\csharpSearch\bin\Debug\csharpSearch.exe
+C:\Users\Jerry Tse\Desktop\DSA\Exercise4\csharpSearch\csharpSearch\bin\Debug\csharpSearch.pdb
+C:\Users\Jerry Tse\Desktop\DSA\Exercise4\csharpSearch\csharpSearch\obj\Debug\csharpSearch.csprojResolveAssemblyReference.cache
+C:\Users\Jerry Tse\Desktop\DSA\Exercise4\csharpSearch\csharpSearch\obj\Debug\csharpSearch.exe
+C:\Users\Jerry Tse\Desktop\DSA\Exercise4\csharpSearch\csharpSearch\obj\Debug\csharpSearch.pdb

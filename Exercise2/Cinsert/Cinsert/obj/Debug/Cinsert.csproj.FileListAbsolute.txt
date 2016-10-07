@@ -1,0 +1,9 @@
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\Cinsert\Cinsert\bin\Debug\Cinsert.exe.config
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\Cinsert\Cinsert\bin\Debug\Cinsert.exe
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\Cinsert\Cinsert\bin\Debug\Cinsert.pdb
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\Cinsert\Cinsert\obj\Debug\Cinsert.csprojResolveAssemblyReference.cache
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\Cinsert\Cinsert\obj\Debug\Cinsert.exe
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\Cinsert\Cinsert\obj\Debug\Cinsert.pdb
+C:\Users\Jerry Tse\Desktop\DSA\Exercise2\Cinsert\Cinsert\bin\Debug\Cinsert.exe.config
+C:\Users\Jerry Tse\Desktop\DSA\Exercise2\Cinsert\Cinsert\obj\Debug\Cinsert.exe
+C:\Users\Jerry Tse\Desktop\DSA\Exercise2\Cinsert\Cinsert\obj\Debug\Cinsert.pdb

@@ -1,0 +1,6 @@
+C:\Users\Jerry Tse\Desktop\DSA\Exercise3\Csharpdel\Csharpdel\bin\Debug\Csharpdel.exe.config
+C:\Users\Jerry Tse\Desktop\DSA\Exercise3\Csharpdel\Csharpdel\bin\Debug\Csharpdel.exe
+C:\Users\Jerry Tse\Desktop\DSA\Exercise3\Csharpdel\Csharpdel\bin\Debug\Csharpdel.pdb
+C:\Users\Jerry Tse\Desktop\DSA\Exercise3\Csharpdel\Csharpdel\obj\Debug\Csharpdel.csprojResolveAssemblyReference.cache
+C:\Users\Jerry Tse\Desktop\DSA\Exercise3\Csharpdel\Csharpdel\obj\Debug\Csharpdel.exe
+C:\Users\Jerry Tse\Desktop\DSA\Exercise3\Csharpdel\Csharpdel\obj\Debug\Csharpdel.pdb

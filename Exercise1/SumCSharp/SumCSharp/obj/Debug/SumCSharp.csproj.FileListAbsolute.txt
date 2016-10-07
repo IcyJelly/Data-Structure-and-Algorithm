@@ -1,0 +1,6 @@
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\SumCSharp\SumCSharp\bin\Debug\SumCSharp.exe.config
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\SumCSharp\SumCSharp\bin\Debug\SumCSharp.exe
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\SumCSharp\SumCSharp\bin\Debug\SumCSharp.pdb
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\SumCSharp\SumCSharp\obj\Debug\SumCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\SumCSharp\SumCSharp\obj\Debug\SumCSharp.exe
+C:\Users\Jerry Tse\Desktop\DSA\Exercise1\SumCSharp\SumCSharp\obj\Debug\SumCSharp.pdb
